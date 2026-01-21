@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm John Orengo
+#  Hi , John Orengo here 👋
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red%20%26%20Red%20Team)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange)
@@ -11,18 +11,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-🎓 Computer Science Graduate  
-🔐 Cybersecurity & Digital Forensics Enthusiast  
-☁️ Cloud & Network Security (AWS)  
-💻 Software Developer (Laravel, Python)
+ Computer Science Graduate  
+ Cybersecurity & Digital Forensics Enthusiast  
+ Cloud & Network Security Enthusiast (AWS)  
+ Software Developer (Laravel, Python)
 
 I enjoy building **secure systems**, exploring **attack & defense techniques**, and deploying **cloud infrastructure with security in mind**.
 
 ---
 
-## 🔐 Cybersecurity
+## Cybersecurity
 
 ![OS](https://img.shields.io/badge/OS-Parrot%20OS-green)
 
@@ -36,27 +36,27 @@ I enjoy building **secure systems**, exploring **attack & defense techniques**, 
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps ☁️
 ![AWS](https://img.shields.io/badge/AWS-EC2%20|%20S3%20|%20IAM-orange)
 ![Linux](https://img.shields.io/badge/Linux-Admin-black)
 
-### 💻 Development
+###  Development 💻
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Laravel-blueviolet)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 🔹 **Employee Task Management System** – Secure Laravel application  
 🔹 **AWS re/Start Labs** – Cloud & security projects  
 🔹 **Python Password Checker** – Password security tool  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -67,17 +67,10 @@ I enjoy building **secure systems**, exploring **attack & defense techniques**, 
 </div>
 
 ---
-
-## 🧪 Currently Learning
-- Red Teaming techniques
-- Cloud Security Architecture
-- DevSecOps basics
-- Kubernetes Security (KCNA)
-
----
-
+<div align="center">
 ## 🤝 Connect With Me
-💼 LinkedIn: *(add link)*  
-📧 Email: *(optional)*  
+💼 LinkedIn: *(https://www.linkedin.com/in/johnorengo/)*  
+📧 Email: *(orengokennedy93@gmail.com)*  
+</div>
 
 > 🔐 *Security is not a feature — it’s a mindset.*
