@@ -1,9 +1,12 @@
 #  Hi 👋, I'm John Orengo
 
- ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20%26%20Red%20Team-blue)
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Software Development](https://img.shields.io/badge/Software-Development-purple)
+# 👋 Hi, I'm John Orengo
+
+![Cybersecurity](...)
+![Cloud Security](...)
+![AWS](...)
+![Software Development](...)
+
 
 
 I’m passionate about building secure systems, cloud infrastructure, and practical cybersecurity tools.  
