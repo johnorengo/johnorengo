@@ -1,6 +1,6 @@
 #  Hi 👋, I'm John Orengo
 
-🎓 Computer Science Graduate | 🔐 Cybersecurity Enthusiast | ☁️ Cloud Security Enthusiast | 💻 Software Developer
+ Computer Science Graduate 🎓 |  Cybersecurity Enthusiast 🔐 |  Cloud Security Enthusiast ☁️ |  Software Developer 💻
 
 I’m passionate about building secure systems, cloud infrastructure, and practical cybersecurity tools.  
 Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Application Development**.
@@ -35,9 +35,7 @@ Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Appl
 - 🔹 **Employee Task Management System** – Laravel-based system
 - 🔹 **AWS re/Start Projects** – Cloud labs & automation
 - 🔹 **Python Password Checker** – Security-focused Python tool
-
-👉 Check them out below ⬇️
-
+- 
 ---
 
 ## 📊 GitHub Stats
@@ -46,6 +44,11 @@ Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Appl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnorengo&layout=compact&theme=tokyonight)
 
 ---
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-BlueTeam-blue)
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/johnorengo/
