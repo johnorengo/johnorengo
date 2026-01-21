@@ -1,76 +1,75 @@
-#  Hi 👋, I'm John Orengo
+<div align="center">
 
-Computer Science Graduate  | Cybersecurity Enthusiast  | Cloud Security Enthusiast  | Software Developer 
+# 👋 Hi there, I'm John Orengo
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
-I’m passionate about building secure systems, cloud infrastructure, and practical cybersecurity tools.  
-Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Application Development**.
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20%26%20Red%20Team-blue)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Software Development](https://img.shields.io/badge/Software-Development-purple)
 
----
-
-## Areas of Interest
-- Cybersecurity & Digital Forensics
-- Cloud & Network Security (AWS)
-- Ethical Hacking & Red Teaming
-- Secure Web Application Development
-- DevSecOps fundamentals
+</div>
 
 ---
 
-##  Tech Stack & Tools
-**Languages:**  
-- Python, PHP, JavaScript  
+## 🧠 About Me
+🎓 Computer Science Graduate  
+🔐 Cybersecurity & Digital Forensics Enthusiast  
+☁️ Cloud & Network Security (AWS)  
+💻 Software Developer (Laravel, Python)
 
-**Frameworks & Platforms:**  
-- Laravel, Livewire  
-- AWS (EC2, S3, IAM, VPC)
-
-**Security Tools:**  
-- Parrot OS  
-- Maltego, Dirb, Knockpy  
-- TryHackMe & CTF labs
+I enjoy building **secure systems**, exploring **attack & defense techniques**, and deploying **cloud infrastructure with security in mind**.
 
 ---
 
-##  Featured Projects
-- 🔹 **Employee Task Management System** – Laravel-based system
-- 🔹 **AWS re/Start Projects** – Cloud labs & automation
-- 🔹 **Python Password Checker** – Security-focused Python tool
-- 
+## 🛠️ My Tech Stack
+
+### 🔐 Cybersecurity
+![ParrotOS](https://img.shields.io/badge/OS-Parrot%20OS-green)
+![Maltego](https://img.shields.io/badge/Tool-Maltego-red)
+![CTF](https://img.shields.io/badge/Practice-CTFs-blue)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-EC2%20|%20S3%20|%20IAM-orange)
+![Linux](https://img.shields.io/badge/Linux-Admin-black)
+
+### 💻 Development
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![PHP](https://img.shields.io/badge/PHP-Laravel-blueviolet)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnorengo&show_icons=true&theme=tokyonight)
+## 📌 Featured Projects
+🔹 **Employee Task Management System** – Secure Laravel application  
+🔹 **AWS re/Start Labs** – Cloud & security projects  
+🔹 **Python Password Checker** – Password security tool  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnorengo&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnorengo&layout=compact&theme=tokyonight)
 
+</div>
+
 ---
 
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-orange)
+## 🧪 Currently Learning
+- Red Teaming techniques
+- Cloud Security Architecture
+- DevSecOps basics
+- Kubernetes Security (KCNA)
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-RedTeam-red)
+---
 
+## 🤝 Connect With Me
+💼 LinkedIn: *(add link)*  
+📧 Email: *(optional)*  
 
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-
-
-##  Let’s Connect 🤝
-- 💼 LinkedIn: https://www.linkedin.com/in/johnorengo/
-- 📧 Email: orengokennedy93@gmail.com
-
-> “Security is not a product, but a process.”
-
-<!--
-**johnorengo/johnorengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🔐 “Security is not a feature — it’s a mindset.”
