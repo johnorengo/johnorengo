@@ -68,9 +68,11 @@ I enjoy building **secure systems**, exploring **attack & defense techniques**, 
 
 ---
 <div align="center">
-## 🤝 Connect With Me
-💼 LinkedIn: *(https://www.linkedin.com/in/johnorengo/)*  
-📧 Email: *(orengokennedy93@gmail.com)*  
+## Connect With Me 🤝
+
+[![Email](https://img.shields.io/badge/Email-orengokennedy93%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:orengokennedy93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Orengo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnorengo/)
+ 
 </div>
 
 > 🔐 *Security is not a feature — it’s a mindset.*
