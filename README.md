@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm John Orengo
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="380"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9C&background=000000&center=true&vCenter=true&multiline=true&width=500&height=120&lines=john%40parrot%3A~%24+whoami;John+Orengo;john%40parrot%3A~%24+echo+%22Cybersecurity+%7C+Cloud+Security%22" />
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20%26%20Red%20Team-blue)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange)
