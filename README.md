@@ -1,6 +1,10 @@
 #  Hi 👋, I'm John Orengo
 
- Computer Science Graduate 🎓 |  Cybersecurity Enthusiast 🔐 |  Cloud Security Enthusiast ☁️ |  Software Developer 💻
+ ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20%26%20Red%20Team-blue)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Software Development](https://img.shields.io/badge/Software-Development-purple)
+
 
 I’m passionate about building secure systems, cloud infrastructure, and practical cybersecurity tools.  
 Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Application Development**.
