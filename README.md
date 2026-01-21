@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm John Orengo
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/>
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20%26%20Red%20Team-blue)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange)
