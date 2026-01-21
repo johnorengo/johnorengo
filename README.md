@@ -1,6 +1,6 @@
 #  Hi 👋, I'm John Orengo
 
-# Computer Science Graduate 🎓 | Cybersecurity Enthusiast 🔐 | Cloud Security Enthusiast ☁️ | Software Developer 💻
+Computer Science Graduate  | Cybersecurity Enthusiast  | Cloud Security Enthusiast  | Software Developer 
 
 
 I’m passionate about building secure systems, cloud infrastructure, and practical cybersecurity tools.  
@@ -8,7 +8,7 @@ Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Appl
 
 ---
 
-## 🧠 Areas of Interest
+## Areas of Interest
 - Cybersecurity & Digital Forensics
 - Cloud & Network Security (AWS)
 - Ethical Hacking & Red Teaming
@@ -17,7 +17,7 @@ Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Appl
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 **Languages:**  
 - Python, PHP, JavaScript  
 
@@ -32,14 +32,14 @@ Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Appl
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 - 🔹 **Employee Task Management System** – Laravel-based system
 - 🔹 **AWS re/Start Projects** – Cloud labs & automation
 - 🔹 **Python Password Checker** – Security-focused Python tool
 - 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnorengo&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnorengo&layout=compact&theme=tokyonight)
@@ -47,11 +47,14 @@ Currently sharpening my skills in **Cloud Security, Red Teaming, and Secure Appl
 ---
 
 ![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-orange)
+
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-RedTeam-red)
+
+
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 
 
-## 🤝 Let’s Connect
+##  Let’s Connect 🤝
 - 💼 LinkedIn: https://www.linkedin.com/in/johnorengo/
 - 📧 Email: orengokennedy93@gmail.com
 
