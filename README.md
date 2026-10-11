@@ -1,37 +1,35 @@
  <div align="center">
 
-# Hi, I'm John Orengo 👋
 
 ### Full-Stack Developer | Cybersecurity Enthusiast | Cloud Security
 
 [![Profile Views](https://komarev.com/ghpvc/?username=johnorengo\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)](https://github.com/johnorengo)
-[![GitHub followers](https://img.shields.io/github/followers/johnorengo?label=Followers\&style=for-the-badge\&color=blue)](https://github.com/johnorengo?tab=followers)
+
 
 *Building secure, scalable, and meaningful technology — one commit at a time.*
 
-[GitHub](https://github.com/johnorengo) • [LinkedIn](https://www.linkedin.com/in/johnorengo/) • [Email](mailto:orengokennedy93@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science graduate and full-stack software developer passionate about building practical software solutions and securing modern digital infrastructure.
 
 My interests span software engineering, cybersecurity, cloud computing, digital forensics, and network security. I enjoy exploring how systems work, identifying vulnerabilities, and developing applications with security and reliability in mind.
 
-* 💻 Developing web applications with Laravel, PHP, Python, and JavaScript.
-* 🔐 Exploring cybersecurity, penetration testing, digital forensics, and defensive security.
-* ☁️ Learning and building with AWS, cloud infrastructure, and cloud security.
-* 🐧 Working with Linux environments and networking technologies.
-* 🚀 Collaborating on projects, learning new technologies, and improving through consistent practice.
+*  Developing web applications with Flutter, Laravel, PHP, Python, and JavaScript.
+*  Exploring cybersecurity, penetration testing, digital forensics, and defensive security.
+*  Learning and building with AWS, cloud infrastructure, and cloud security.
+*  Working with Linux environments and networking technologies.
+*  Collaborating on projects, learning new technologies, and improving through consistent practice.
 
 **My philosophy:** Learn continuously, build responsibly, and make every contribution count.
 
 ---
 
-## 🛡️ Cybersecurity & Cloud
+##  Cybersecurity & Cloud
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red%20Team%20%26%20Blue%20Team-red?style=flat-square)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange?style=flat-square)
@@ -51,7 +49,7 @@ My interests span software engineering, cybersecurity, cloud computing, digital 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Cloud & Infrastructure
 
@@ -80,7 +78,7 @@ My interests span software engineering, cybersecurity, cloud computing, digital 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Employee Task Management System
 
@@ -120,13 +118,12 @@ Hands-on practice exploring cloud infrastructure, identity and access management
 
 </div>
 
-This card displays my **current contribution streak** and **longest contribution streak**, along with contribution statistics tracked by the streak service.
 
 My goal is to keep learning, contributing to projects, and building consistently.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -138,17 +135,10 @@ My goal is to keep learning, contributing to projects, and building consistently
 
 ---
 
-## 📈 My Contribution Activity
-
-<div align="center">
-
-[![John's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnorengo\&theme=tokyo-night\&hide_border=true)](https://github.com/johnorengo)
-
-</div>
 
 ---
 
-## 🎯 What I'm Working Towards
+## What I'm Working Towards
 
 * Building reliable, secure, and maintainable software.
 * Deepening my expertise in cloud security and cybersecurity.
@@ -158,7 +148,7 @@ My goal is to keep learning, contributing to projects, and building consistently
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm open to connecting with developers, cybersecurity professionals, cloud engineers, and people building interesting technology.
 
