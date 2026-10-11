@@ -38,16 +38,6 @@ My interests span software engineering, cybersecurity, cloud computing, digital 
 ![Parrot OS](https://img.shields.io/badge/OS-Parrot%20OS-15E0B8?style=flat-square)
 ![CTF](https://img.shields.io/badge/Practice-CTF%20Challenges-blue?style=flat-square)
 
-**Areas of interest**
-
-* Network security and traffic analysis
-* Vulnerability assessment and penetration testing
-* Digital forensics and open-source intelligence (OSINT)
-* Identity and access management
-* Cloud security and infrastructure protection
-* Security monitoring and incident response
-
----
 
 ##  Tech Stack
 
