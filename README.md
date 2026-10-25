@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="John Orengo. Build with purpose. Secure by design. Full stack development, cybersecurity and cloud." width="100%" />
+  <img src="./assets/profile-banner.svg" alt="John Orengo. Full stack developer with interests in cybersecurity and cloud infrastructure." width="100%" />
 </p>
 
 <p align="center">
@@ -8,17 +8,17 @@
   <a href="mailto:orengokennedy93@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-142536?style=for-the-badge&amp;logo=gmail&amp;logoColor=6EE7B7" alt="Email John" /></a>
 </p>
 
-## A little about me
+## About me
 
-I'm **John**, a Computer Science graduate and full stack developer who enjoys turning real world problems into useful software. I care about how an application works, how it feels to use, and how well it protects the people who rely on it.
+I'm John Orengo, a Computer Science graduate and full stack developer. I build web applications and business websites, and develop Python tools as part of my interest in cybersecurity.
 
-My work and learning sit at the intersection of **software engineering, cybersecurity, and cloud infrastructure**. From Laravel applications to Python security utilities, I build to understand and keep improving what I understand.
+I work with Laravel, PHP, JavaScript, and Flutter. My ongoing learning focuses on cloud infrastructure, network security, and digital forensics. I value clear interfaces, maintainable code, and practical solutions to everyday problems.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 01 / Build
+### Development
 Web and mobile applications with clear workflows, maintainable code, and practical value.
 
 **Laravel · Flutter · JavaScript**
@@ -26,7 +26,7 @@ Web and mobile applications with clear workflows, maintainable code, and practic
 </td>
 <td width="33%" valign="top">
 
-### 02 / Protect
+### Security interests
 Exploring offensive and defensive security, digital forensics, and network analysis.
 
 **Linux · Wireshark · CTFs**
@@ -34,7 +34,7 @@ Exploring offensive and defensive security, digital forensics, and network analy
 </td>
 <td width="33%" valign="top">
 
-### 03 / Scale
+### Cloud learning
 Learning how to deploy and secure reliable systems in the cloud.
 
 **AWS · Cloud security · DevOps**
@@ -43,23 +43,17 @@ Learning how to deploy and secure reliable systems in the cloud.
 </tr>
 </table>
 
-## Selected work / Real world impact
+## Selected projects
 
-Business websites, security tools, and education platforms. Explore the work featured on **[my portfolio ↗](https://john4tech.vercel.app/#projects)**.
+Recent work from [my portfolio](https://john4tech.vercel.app/#projects), including business websites, Python utilities, and education platforms.
 
 <table>
 <tr>
 <td colspan="2" valign="top">
 
-**SPOTLIGHT / DEVELOPER SECURITY**
-
-### SecretGuard · Catch secrets before they ship
+### SecretGuard
 
 A Python CLI that scans repositories for potentially exposed API keys, tokens, and passwords. Findings include file locations, severity, and remediation guidance, with optional JSON reports and masked matched values.
-
-```text
-Source repository  →  Detection rules  →  Prioritized findings  →  Remediation
-```
 
 `Python` `Secret detection` `JSON reporting`
 
@@ -71,8 +65,6 @@ Source repository  →  Detection rules  →  Prioritized findings  →  Remedia
 <td width="50%" valign="top">
 
 <a href="https://sebbylogistics.com/"><img src="https://john4tech.vercel.app/projects/sebby-logistics.webp" width="100%" alt="Sebby Logistics website preview" /></a>
-
-**01 / COMMERCE & LOGISTICS**
 
 ### Sebby Logistics Ltd
 Connecting international flower buyers with Kenyan growers and airfreight services through JKIA. Sourcing, quality assurance, and export information guide visitors toward detailed quotation enquiries.
@@ -86,8 +78,6 @@ Connecting international flower buyers with Kenyan growers and airfreight servic
 
 <a href="https://citymartelectricals.com/"><img src="https://john4tech.vercel.app/projects/citymart-electricals.webp" width="100%" alt="Citymart Electricals website preview" /></a>
 
-**02 / DIGITAL SHOWROOM**
-
 ### Citymart Electricals
 A digital showroom for a Kisumu electrical and hardware supplier. Searchable products, installation galleries, and service information help customers find solutions and request quotations.
 
@@ -100,12 +90,10 @@ A digital showroom for a Kisumu electrical and hardware supplier. Searchable pro
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://foxtechsolution.com/"><img src="https://john4tech.vercel.app/projects/fox-tech-logo.png" width="100%" alt="Fox Tech Solutions logo" /></a>
-
-**03 / TECHNOLOGY & SERVICES**
+<a href="https://foxtechsolution.com/"><img src="https://john4tech.vercel.app/projects/fox-tech-logo.png" width="180" alt="Fox Tech Solutions logo" /></a>
 
 ### Fox Tech Solutions
-A business website bringing software development, design, marketing, and IT support services together. Interactive case studies and delivery guidance help prospective clients explore the work and start a conversation.
+A website presenting software development, design, marketing, and IT support services, with case studies and project enquiry options.
 
 `Service showcase` `Interactive case studies` `Client enquiries`
 
@@ -114,10 +102,8 @@ A business website bringing software development, design, marketing, and IT supp
 </td>
 <td width="50%" valign="top">
 
-**04 / SECURITY AWARENESS**
-
 ### Password Strength Checker
-An interactive Python utility that turns password length and character checks into clear **Weak / Moderate / Strong** feedback. A focused exploration of regular expressions and password hygiene.
+A Python learning project that checks password length and character composition, then returns Weak, Moderate, or Strong feedback using a simple scoring system.
 
 `Python` `Regular expressions` `Input validation`
 
@@ -130,8 +116,6 @@ An interactive Python utility that turns password length and character checks in
 
 <a href="https://dataverifications.education.go.ke/"><img src="https://john4tech.vercel.app/projects/school-data-verification.webp" width="100%" alt="School Data Verification System preview" /></a>
 
-**05 / EDUCATION & DATA**
-
 ### School Data Verification System
 A Ministry of Education platform for verifying enrolment records and identifying inaccurate learner entries. Separate access for institution heads and education directors supports verification and oversight.
 
@@ -143,8 +127,6 @@ A Ministry of Education platform for verifying enrolment records and identifying
 <td width="50%" valign="top">
 
 <a href="https://kplp.education.go.ke/"><img src="https://john4tech.vercel.app/projects/education-emergency.webp" width="100%" alt="Education Emergency Management System preview" /></a>
-
-**06 / SCHOOL SAFETY**
 
 ### Education Emergency Management System
 A school safety platform supporting preparedness and emergency response across Kenya's 47 counties. Risk profiles, incident reporting, and safeguarding workflows support student welfare and learning continuity.
@@ -163,7 +145,7 @@ A school safety platform supporting preparedness and emergency response across K
 </p>
 
 
-## My toolkit
+## Technologies
 
 **Application development**
 
@@ -185,21 +167,12 @@ A school safety platform supporting preparedness and emergency response across K
 
 `AWS` `Azure` `Linux` `Docker` `Kubernetes` `Wireshark` `Parrot OS` `Network security`
 
-## Currently exploring
+## Current focus
 
-- **Secure applications:** building reliable software with security and maintainability in mind.
-- **Cloud foundations:** deepening practical knowledge of infrastructure, IAM, and cloud security.
-- **Security practice:** learning through CTF challenges, network analysis, and digital forensics.
-- **Collaboration:** contributing consistently and turning ideas into useful applications.
+I'm continuing to develop my skills in secure application development, AWS infrastructure and IAM, and network analysis through practical projects and security labs.
 
-## Let's build something meaningful
+## Contact
 
-I enjoy connecting with developers, security practitioners, cloud engineers, and people solving interesting problems.
+For project enquiries or professional connections, reach me through LinkedIn or email.
 
 **[LinkedIn](https://www.linkedin.com/in/johnorengo/)** &nbsp; / &nbsp; **[Email](mailto:orengokennedy93@gmail.com)** &nbsp; / &nbsp; **[GitHub](https://github.com/johnorengo)**
-
----
-
-<p align="center">
-  <sub><strong>Keep building. Keep learning. Make every contribution count.</strong></sub>
-</p>
