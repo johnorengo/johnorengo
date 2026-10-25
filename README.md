@@ -100,6 +100,8 @@ A digital showroom for a Kisumu electrical and hardware supplier. Searchable pro
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://foxtechsolution.com/"><img src="https://john4tech.vercel.app/projects/fox-tech-logo.png" width="100%" alt="Fox Tech Solutions logo" /></a>
+
 **03 / TECHNOLOGY & SERVICES**
 
 ### Fox Tech Solutions
