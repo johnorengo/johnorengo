@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
-  <title id="title">John Orengo — Build with purpose. Secure by design.</title>
-  <desc id="desc">Full-stack development, cybersecurity and cloud. A midnight blue banner with mint typography and an abstract connected architecture.</desc>
+  <title id="title">John Orengo. Build with purpose. Secure by design.</title>
+  <desc id="desc">Full stack development, cybersecurity and cloud. A midnight blue banner with mint typography and an abstract connected architecture.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#101F30"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#6EE7B7"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>

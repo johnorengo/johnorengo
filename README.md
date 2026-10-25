@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="John Orengo — Build with purpose. Secure by design. Full-stack development, cybersecurity and cloud." width="100%" />
+  <img src="./assets/profile-banner.svg" alt="John Orengo. Build with purpose. Secure by design. Full stack development, cybersecurity and cloud." width="100%" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 ## A little about me
 
-I'm **John**, a Computer Science graduate and full-stack developer who enjoys turning real-world problems into useful software. I care about how an application works, how it feels to use, and how well it protects the people who rely on it.
+I'm **John**, a Computer Science graduate and full stack developer who enjoys turning real world problems into useful software. I care about how an application works, how it feels to use, and how well it protects the people who rely on it.
 
-My work and learning sit at the intersection of **software engineering, cybersecurity, and cloud infrastructure**. From Laravel applications to Python security utilities, I build to understand—and keep improving what I understand.
+My work and learning sit at the intersection of **software engineering, cybersecurity, and cloud infrastructure**. From Laravel applications to Python security utilities, I build to understand and keep improving what I understand.
 
 <table>
 <tr>
@@ -43,9 +43,9 @@ Learning how to deploy and secure reliable systems in the cloud.
 </tr>
 </table>
 
-## Selected work / Real-world impact
+## Selected work / Real world impact
 
-Business websites, security tools, and education platforms—explore the work featured on **[my portfolio ↗](https://john4tech.vercel.app/#projects)**.
+Business websites, security tools, and education platforms. Explore the work featured on **[my portfolio ↗](https://john4tech.vercel.app/#projects)**.
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ An interactive Python utility that turns password length and character checks in
 ### School Data Verification System
 A Ministry of Education platform for verifying enrolment records and identifying inaccurate learner entries. Separate access for institution heads and education directors supports verification and oversight.
 
-`Record verification` `Role-based access`
+`Record verification` `Role based access`
 
 **[Explore the platform ↗](https://dataverifications.education.go.ke/)**
 
