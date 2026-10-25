@@ -1,161 +1,128 @@
- <div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="John Orengo — Build with purpose. Secure by design. Full-stack development, cybersecurity and cloud." width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/johnorengo?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-6EE7B7?style=for-the-badge&amp;logo=github&amp;logoColor=0B1220" alt="Explore my repositories" /></a>
+  <a href="https://www.linkedin.com/in/johnorengo/"><img src="https://img.shields.io/badge/Let's_connect-142536?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6EE7B7" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:orengokennedy93@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-142536?style=for-the-badge&amp;logo=gmail&amp;logoColor=6EE7B7" alt="Email John" /></a>
+</p>
 
-### Full-Stack Developer | Cybersecurity Enthusiast | Cloud Security
+## A little about me
 
-[![Profile Views](https://komarev.com/ghpvc/?username=johnorengo\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)](https://github.com/johnorengo)
+I'm **John**, a Computer Science graduate and full-stack developer who enjoys turning real-world problems into useful software. I care about how an application works, how it feels to use, and how well it protects the people who rely on it.
 
+My work and learning sit at the intersection of **software engineering, cybersecurity, and cloud infrastructure**. From Laravel applications to Python security utilities, I build to understand—and keep improving what I understand.
 
-*Building secure, scalable, and meaningful technology — one commit at a time.*
+<table>
+<tr>
+<td width="33%" valign="top">
 
+### 01 / Build
+Web and mobile applications with clear workflows, maintainable code, and practical value.
 
-</div>
+**Laravel · Flutter · JavaScript**
 
----
+</td>
+<td width="33%" valign="top">
 
-## About Me
+### 02 / Protect
+Exploring offensive and defensive security, digital forensics, and network analysis.
 
-I'm a Computer Science graduate and full-stack software developer passionate about building practical software solutions and securing modern digital infrastructure.
+**Linux · Wireshark · CTFs**
 
-My interests span software engineering, cybersecurity, cloud computing, digital forensics, and network security. I enjoy exploring how systems work, identifying vulnerabilities, and developing applications with security and reliability in mind.
+</td>
+<td width="33%" valign="top">
 
-*  Developing web applications with Flutter, Laravel, PHP, Python, and JavaScript.
-*  Exploring cybersecurity, penetration testing, digital forensics, and defensive security.
-*  Learning and building with AWS, cloud infrastructure, and cloud security.
-*  Working with Linux environments and networking technologies.
-*  Collaborating on projects, learning new technologies, and improving through consistent practice.
+### 03 / Scale
+Learning how to deploy and secure reliable systems in the cloud.
 
-**My philosophy:** Learn continuously, build responsibly, and make every contribution count.
+**AWS · Cloud security · DevOps**
 
----
+</td>
+</tr>
+</table>
 
-##  Cybersecurity & Cloud
+## Selected projects & explorations
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red%20Team%20%26%20Blue%20Team-red?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-orange?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-System%20Administration-black?style=flat-square\&logo=linux)
-![Parrot OS](https://img.shields.io/badge/OS-Parrot%20OS-15E0B8?style=flat-square)
-![CTF](https://img.shields.io/badge/Practice-CTF%20Challenges-blue?style=flat-square)
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### Employee Task Management
+A web application for organizing tasks, supporting collaboration, and making responsibility and progress easier to track.
 
-##  Tech Stack
+`Laravel` `PHP` `MySQL`
 
-### Cloud & Infrastructure
+</td>
+<td width="50%" valign="top">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+### Python Password Checker
+A security utility that evaluates password strength and encourages better password practices.
 
-### Software Development
+`Python` `Security`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Databases & Security Tools
+### School Data Verification
+A web application concept for streamlining institutional records and data verification with role-based access.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+`Laravel` `PHP` `MySQL`
 
----
+</td>
+<td width="50%" valign="top">
 
-##  Featured Projects
+### AWS Cloud & Security Labs
+Hands-on exploration of cloud infrastructure, identity and access management, and secure configurations.
 
-### 🔹 Employee Task Management System
+`AWS` `Linux` `Cloud security`
 
-A web-based application designed to organize tasks, support collaboration, and improve task tracking and accountability.
+</td>
+</tr>
+</table>
 
-**Technologies:** Laravel, PHP, MySQL
+**[Browse my repositories →](https://github.com/johnorengo?tab=repositories)**
 
-### 🔹 Python Password Checker
+## My toolkit
 
-A Python security utility focused on evaluating password strength and encouraging better password practices.
+**Application development**
 
-**Technologies:** Python
+![Python](https://img.shields.io/badge/Python-142536?style=flat-square&logo=python&logoColor=6EE7B7)
+![PHP](https://img.shields.io/badge/PHP-142536?style=flat-square&logo=php&logoColor=6EE7B7)
+![Laravel](https://img.shields.io/badge/Laravel-142536?style=flat-square&logo=laravel&logoColor=6EE7B7)
+![JavaScript](https://img.shields.io/badge/JavaScript-142536?style=flat-square&logo=javascript&logoColor=6EE7B7)
+![React](https://img.shields.io/badge/React-142536?style=flat-square&logo=react&logoColor=6EE7B7)
+![Flutter](https://img.shields.io/badge/Flutter-142536?style=flat-square&logo=flutter&logoColor=6EE7B7)
 
-### 🔹 School Data Verification System
+**Data & developer tools**
 
-A web application concept for streamlining school data verification, supporting role-based access, and improving the management of institutional records.
+![MySQL](https://img.shields.io/badge/MySQL-142536?style=flat-square&logo=mysql&logoColor=67E8F9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-142536?style=flat-square&logo=postgresql&logoColor=67E8F9)
+![Git](https://img.shields.io/badge/Git-142536?style=flat-square&logo=git&logoColor=67E8F9)
+![GitHub](https://img.shields.io/badge/GitHub-142536?style=flat-square&logo=github&logoColor=67E8F9)
 
-**Technologies:** Laravel, PHP, MySQL
+**Cloud, infrastructure & security interests**
 
-### 🔹 AWS Cloud & Security Labs
+`AWS` `Azure` `Linux` `Docker` `Kubernetes` `Wireshark` `Parrot OS` `Network security`
 
-Hands-on practice exploring cloud infrastructure, identity and access management, security configurations, and cloud security principles.
+## Currently exploring
 
-**Technologies:** AWS, Linux, Cloud Security
+- **Secure applications:** building reliable software with security and maintainability in mind.
+- **Cloud foundations:** deepening practical knowledge of infrastructure, IAM, and cloud security.
+- **Security practice:** learning through CTF challenges, network analysis, and digital forensics.
+- **Collaboration:** contributing consistently and turning ideas into useful applications.
 
-> Explore my repositories for more projects, experiments, and ongoing work.
+## Let's build something meaningful
 
-[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge\&logo=github)](https://github.com/johnorengo?tab=repositories)
+I enjoy connecting with developers, security practitioners, cloud engineers, and people solving interesting problems.
 
----
-
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=johnorengo\&theme=tokyonight\&hide_border=true)](https://github.com/johnorengo)
-
-</div>
-
-
-My goal is to keep learning, contributing to projects, and building consistently.
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnorengo\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnorengo\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
+**[LinkedIn](https://www.linkedin.com/in/johnorengo/)** &nbsp; / &nbsp; **[Email](mailto:orengokennedy93@gmail.com)** &nbsp; / &nbsp; **[GitHub](https://github.com/johnorengo)**
 
 ---
 
-
----
-
-## What I'm Working Towards
-
-* Building reliable, secure, and maintainable software.
-* Deepening my expertise in cloud security and cybersecurity.
-* Strengthening my practical knowledge of cloud infrastructure and DevOps.
-* Contributing consistently to collaborative software projects.
-* Turning ideas into useful applications that solve real-world problems.
-
----
-
-##  Let's Connect
-
-I'm open to connecting with developers, cybersecurity professionals, cloud engineers, and people building interesting technology.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-johnorengo-181717?style=for-the-badge\&logo=github)](https://github.com/johnorengo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Orengo-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/johnorengo/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:orengokennedy93@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔐 Security is not just a feature — it's a mindset.
-
-*Keep building. Keep learning. Keep contributing.*
-
-</div>
+<p align="center">
+  <sub><strong>Keep building. Keep learning. Make every contribution count.</strong></sub>
+</p>
