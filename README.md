@@ -43,48 +43,123 @@ Learning how to deploy and secure reliable systems in the cloud.
 </tr>
 </table>
 
-## Selected projects & explorations
+## Selected work / Real-world impact
+
+Business websites, security tools, and education platforms—explore the work featured on **[my portfolio ↗](https://john4tech.vercel.app/#projects)**.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### Employee Task Management
-A web application for organizing tasks, supporting collaboration, and making responsibility and progress easier to track.
+**SPOTLIGHT / DEVELOPER SECURITY**
 
-`Laravel` `PHP` `MySQL`
+### SecretGuard · Catch secrets before they ship
 
-</td>
-<td width="50%" valign="top">
+A Python CLI that scans repositories for potentially exposed API keys, tokens, and passwords. Findings include file locations, severity, and remediation guidance, with optional JSON reports and masked matched values.
 
-### Python Password Checker
-A security utility that evaluates password strength and encourages better password practices.
+```text
+Source repository  →  Detection rules  →  Prioritized findings  →  Remediation
+```
 
-`Python` `Security`
+`Python` `Secret detection` `JSON reporting`
+
+**[Explore the source →](https://github.com/johnorengo/SecretGuard)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### School Data Verification
-A web application concept for streamlining institutional records and data verification with role-based access.
+<a href="https://sebbylogistics.com/"><img src="https://john4tech.vercel.app/projects/sebby-logistics.webp" width="100%" alt="Sebby Logistics website preview" /></a>
 
-`Laravel` `PHP` `MySQL`
+**01 / COMMERCE & LOGISTICS**
+
+### Sebby Logistics Ltd
+Connecting international flower buyers with Kenyan growers and airfreight services through JKIA. Sourcing, quality assurance, and export information guide visitors toward detailed quotation enquiries.
+
+`Quotation enquiries` `WhatsApp` `SEO`
+
+**[Visit the live site ↗](https://sebbylogistics.com/)**
 
 </td>
 <td width="50%" valign="top">
 
-### AWS Cloud & Security Labs
-Hands-on exploration of cloud infrastructure, identity and access management, and secure configurations.
+<a href="https://citymartelectricals.com/"><img src="https://john4tech.vercel.app/projects/citymart-electricals.webp" width="100%" alt="Citymart Electricals website preview" /></a>
 
-`AWS` `Linux` `Cloud security`
+**02 / DIGITAL SHOWROOM**
+
+### Citymart Electricals
+A digital showroom for a Kisumu electrical and hardware supplier. Searchable products, installation galleries, and service information help customers find solutions and request quotations.
+
+`Product catalog` `Quotations` `Installation gallery`
+
+**[Visit the live site ↗](https://citymartelectricals.com/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / TECHNOLOGY & SERVICES**
+
+### Fox Tech Solutions
+A business website bringing software development, design, marketing, and IT support services together. Interactive case studies and delivery guidance help prospective clients explore the work and start a conversation.
+
+`Service showcase` `Interactive case studies` `Client enquiries`
+
+**[Visit the live site ↗](https://foxtechsolution.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+**04 / SECURITY AWARENESS**
+
+### Password Strength Checker
+An interactive Python utility that turns password length and character checks into clear **Weak / Moderate / Strong** feedback. A focused exploration of regular expressions and password hygiene.
+
+`Python` `Regular expressions` `Input validation`
+
+**[Explore the source →](https://github.com/johnorengo/Python_Password_Checker)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://dataverifications.education.go.ke/"><img src="https://john4tech.vercel.app/projects/school-data-verification.webp" width="100%" alt="School Data Verification System preview" /></a>
+
+**05 / EDUCATION & DATA**
+
+### School Data Verification System
+A Ministry of Education platform for verifying enrolment records and identifying inaccurate learner entries. Separate access for institution heads and education directors supports verification and oversight.
+
+`Record verification` `Role-based access`
+
+**[Explore the platform ↗](https://dataverifications.education.go.ke/)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://kplp.education.go.ke/"><img src="https://john4tech.vercel.app/projects/education-emergency.webp" width="100%" alt="Education Emergency Management System preview" /></a>
+
+**06 / SCHOOL SAFETY**
+
+### Education Emergency Management System
+A school safety platform supporting preparedness and emergency response across Kenya's 47 counties. Risk profiles, incident reporting, and safeguarding workflows support student welfare and learning continuity.
+
+`Risk monitoring` `Incident reporting` `Safeguarding`
+
+**[Explore the platform ↗](https://kplp.education.go.ke/)**
 
 </td>
 </tr>
 </table>
 
-**[Browse my repositories →](https://github.com/johnorengo?tab=repositories)**
+<p align="center">
+  <a href="https://john4tech.vercel.app/#projects"><img src="https://img.shields.io/badge/Discover_the_full_portfolio-6EE7B7?style=for-the-badge&amp;logo=vercel&amp;logoColor=0B1220" alt="Discover the full portfolio" /></a>
+  <a href="https://github.com/johnorengo?tab=repositories"><img src="https://img.shields.io/badge/Browse_the_code-142536?style=for-the-badge&amp;logo=github&amp;logoColor=6EE7B7" alt="Browse my repositories" /></a>
+</p>
+
 
 ## My toolkit
 
