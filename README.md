@@ -73,4 +73,4 @@ I'm continuing to develop my skills in secure application development, AWS infra
 
 For project enquiries or professional connections, reach me through LinkedIn or email.
 
-**[LinkedIn](https://www.linkedin.com/in/johnorengo/)** &nbsp; / &nbsp; **[Email](mailto:orengokennedy93@gmail.com)** &nbsp; / &nbsp; **[GitHub](https://github.com/johnorengo)**
+**[LinkedIn](https://www.linkedin.com/in/johnorengo/)** &nbsp; / &nbsp; **[Email](mailto:orengokennedy93@gmail.com)** &nbsp; / &nbsp; **[GitHub](https://github.com/johnorengo)** &nbsp; / &nbsp; **[Portfolio](https://john4tech.vercel.app/)**
